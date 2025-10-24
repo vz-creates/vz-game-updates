@@ -1,3 +1,3 @@
 # Game Updates
 
-- [ProjecOD](ProjectOD/Main.md)
+- [OCEAN DRIFT](ProjectOD/Main.md)
