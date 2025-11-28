@@ -1,7 +1,19 @@
-## Build 6
+## Release 9
+- Improved overall runtime performance impact of drift zones
+- Added a non-persistent toggle to disable neon underglow
+- Introduced first set of weather features (dynamic random cloud coverage)
+
+## Release 8
+- Introduced custom speedometer ui
+- Improved minimap rendering
+
+## Release 7
+- Introduced drift angle meter
+
+## Release 6
 - Fixed a visual bug where neon underglow would not appear on certain platforms
 
-## Build 5
+## Release 5
 
 #### Added
 - Introduced colorful neon underglow
@@ -11,18 +23,18 @@
 - Reworked soundtrack UI
 - Improved minimap rotation, it should be relatively smooth now
 
-## Build 4
+## Release 4
 - Updated user exposed state label
 - Applied minor patches required after Fortnite update
 
-## Build 3
+## Release 3
 
 - Introduced Drift Zones
 - Added new icons for vehicle presets
 - Added colorful state to the music toggle
 - Added 4 new original soundtracks
 
-## Build 2
+## Release 2
 
 #### Added
 - Machmaking portal with reference to the same island
@@ -39,7 +51,7 @@
 #### Improved
 - Internal telemetry component logic
 
-## Build 1
+## Release 1
 
 #### Added
 - Low sports car / SUV presets with 60 kph top drift speed
