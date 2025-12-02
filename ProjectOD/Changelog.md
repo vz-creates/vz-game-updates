@@ -1,3 +1,6 @@
+## Release 10
+- Made weather transition smooth instead of stepped
+
 ## Release 9
 - Improved overall runtime performance impact of drift zones
 - Added a non-persistent toggle to disable neon underglow
