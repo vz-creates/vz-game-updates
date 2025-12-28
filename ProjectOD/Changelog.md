@@ -1,3 +1,8 @@
+## Release 11
+- Speedometer displays a more precise speed value
+- Speedometer does correctly show R (reverse) gear now
+- There is now a toggle (with a placeholder icon) that allows you to disable the metric mode and display speed as MPH
+
 ## Release 10
 - Made weather transition smooth instead of stepped
 
