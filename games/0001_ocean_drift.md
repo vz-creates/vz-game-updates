@@ -7,6 +7,9 @@
 ### Description
 TBD
 
+### URL
+https://fortnite.com/@velocity_zero/2892-4984-5194
+
 # Releases
 
 ## Release 16
