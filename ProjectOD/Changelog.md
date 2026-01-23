@@ -1,3 +1,22 @@
+## Release 16
+- Added minimap player directions ui
+
+## Release 15
+- Removed the issue note as it was fixed
+- Tuned vehicle to perform closer as intended
+
+## Release 14
+- Added an issue note
+- Adjusted transfer logic
+
+## Release 13
+- Adjusted drift score formula
+- Adjusted minimap logic
+- Adjusted minimap visual apperance
+
+## Release 12
+- Added a drift score ui
+
 ## Release 11
 - Speedometer displays a more precise speed value
 - Speedometer does correctly show R (reverse) gear now
