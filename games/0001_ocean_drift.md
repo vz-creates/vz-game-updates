@@ -12,6 +12,11 @@ https://fortnite.com/@velocity_zero/2892-4984-5194
 
 # Releases
 
+## Release 17
+- Reduced required device count
+- Restored vehicle type UI in speedometer
+- Improved stability of game and logic-driven visuals
+
 ## Release 16
 - Added minimap player direction indicator
 
