@@ -12,6 +12,12 @@ https://fortnite.com/@velocity_zero/2892-4984-5194
 
 # Releases
 
+## Release 18
+- Reduced speedometer performance cost
+- Reduced information label performance cost
+- Improved stability of user-facing notification popups
+- Re-enabled minimap 3d perspective
+
 ## Release 17
 - Reduced required device count
 - Restored vehicle type UI in speedometer
