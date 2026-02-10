@@ -12,6 +12,11 @@ https://fortnite.com/@velocity_zero/2892-4984-5194
 
 # Releases
 
+## Release 20
+- Improved TPS monitoring logic for better server performance tracking
+- Fixed caching issue causing server performance degradation
+- Fixed hologram board rendering on mobile platforms
+
 ## Release 19
 - Added sound effects to drift zones
 - Added spawn area soundtrack
