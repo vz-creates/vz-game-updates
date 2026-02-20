@@ -12,6 +12,11 @@ https://fortnite.com/@velocity_zero/2892-4984-5194
 
 # Releases
 
+## Release 21
+- Extended road network with additional roads
+- Fixed caching issue
+- Continued groundwork for future road variation and elevation improvements
+
 ## Release 20
 - Improved TPS monitoring logic for better server performance tracking
 - Fixed caching issue causing server performance degradation
