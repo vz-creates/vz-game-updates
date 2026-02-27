@@ -12,6 +12,11 @@ https://fortnite.com/@velocity_zero/2892-4984-5194
 
 # Releases
 
+## Release 22
+- Added new soundtrack
+- Expanded road network
+- Improved road layouts with elevation updates
+
 ## Release 21
 - Extended road network with additional roads
 - Fixed caching issue
