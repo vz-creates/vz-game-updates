@@ -12,6 +12,14 @@ https://fortnite.com/@velocity_zero/2892-4984-5194
 
 # Releases
 
+## Release 23
+- Added UI for session credits and vehicle lifetime
+- Added fun drift car with automatic drift speed maintenance
+- Added vehicle lifetime system
+- Added ability to earn session credits
+- Added ability to exchange session credits for fun drift car lifetime
+- Added ability to purchase fun drift car lifetimes from the shop
+
 ## Release 22
 - Added new soundtrack
 - Expanded road network
