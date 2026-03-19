@@ -12,6 +12,9 @@ https://fortnite.com/@velocity_zero/2892-4984-5194
 
 # Releases
 
+## Release 24
+- Fixed breaking change caused by new API behavior
+
 ## Release 23
 - Added UI for session credits and vehicle lifetime
 - Added fun drift car with automatic drift speed maintenance
