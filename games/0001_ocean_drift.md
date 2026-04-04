@@ -12,6 +12,10 @@ https://fortnite.com/@velocity_zero/2892-4984-5194
 
 # Releases
 
+## Release 25
+- Updated spawn island hologram
+- Improved internal stability to reduce potential crashes
+
 ## Release 24
 - Fixed breaking change caused by new API behavior
 
