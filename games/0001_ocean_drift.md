@@ -12,6 +12,9 @@ https://fortnite.com/@velocity_zero/2892-4984-5194
 
 # Releases
 
+## Release 27
+- Fixed lifetime indicator appearing for all vehicle types
+
 ## Release 26
 - Overhauled internal project structure
 - Migrated player persistent data
