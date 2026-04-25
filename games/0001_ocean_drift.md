@@ -12,7 +12,7 @@ https://fortnite.com/@velocity_zero/2892-4984-5194
 
 # Releases
 
-## Release 27
+## Release 28
 - Added 50 drift zones across the map
 
 ## Release 27
