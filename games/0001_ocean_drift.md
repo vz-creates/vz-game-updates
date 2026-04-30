@@ -12,6 +12,10 @@ https://fortnite.com/@velocity_zero/2892-4984-5194
 
 # Releases
 
+## Release 29
+- Added burst nitrous (temporarily unlimited)
+- Known issue: Burst nitrous may not trigger on keyboard and mouse
+
 ## Release 28
 - Added 50 drift zones across the map
 
