@@ -12,6 +12,10 @@ https://fortnite.com/@velocity_zero/2892-4984-5194
 
 # Releases
 
+## Release 30
+- Improved burst nitrous stability and keyboard support
+- Temporary: Burst nitrous now uses Sprint instead of Jump keybind
+
 ## Release 29
 - Added burst nitrous (temporarily unlimited)
 - Known issue: Burst nitrous may not trigger on keyboard and mouse
